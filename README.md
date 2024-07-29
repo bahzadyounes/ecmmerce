@@ -1,2 +1,2 @@
-# ecmmerce
+# ecommerce
 ecommerce using javafx
