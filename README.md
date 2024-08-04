@@ -1,2 +1,2 @@
 # ecommerce
-ecommerce using javafx
+ecommerce using javaswing
